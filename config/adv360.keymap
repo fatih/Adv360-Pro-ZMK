@@ -59,9 +59,9 @@
       bindings = <
         &kp EQUAL &kp N1    &kp N2   &kp N3   &kp N4     &kp N5 &kp C_MUTE                                                              &kp MACLOCK  &kp N6 &kp N7   &kp N8    &kp N9   &kp N0   &kp MINUS
         &kp TAB   &kp Q     &kp W    &kp E    &kp R      &kp T  &kp C_VOL_UP                                                            &kp PG_UP  &kp Y  &kp U    &kp I     &kp O    &kp P    &kp BSLH
-        &kp LCTRL &kp A     &kp S    &kp D    &lt 1 F    &kp G  &kp C_VOL_DN           &sk LSHFT &sk LALT &sk RALT  &sk RSHFT           &kp PG_DN &kp H  &kp J    &kp K     &kp L    &kp SEMI &mt RCTRL SQT
+        &kp LCTRL &kp A     &kp S    &kp D    &lt 1 F    &kp G  &kp C_VOL_DN           &kp HYP(8) &sk LALT &sk RALT  &kp ESC           &kp PG_DN &kp H  &kp J    &kp K     &kp L    &kp SEMI &mt RCTRL SQT
         &sk LSHFT   &kp Z     &kp X    &kp C    &kp V      &kp B                            &kp HOME  &kp END                                       &kp N  &kp M    &kp COMMA &kp DOT  &kp FSLH &sk RSHFT
-        &mo 2 &kp GRAVE &kp CAPS &kp LEFT &kp RIGHT                &kp LGUI &kp BSPC  &kp LG(LS(N3))  &kp ESC &kp ENTER &lt 2 SPACE             &kp DOWN &kp UP &kp LBKT  &kp RBKT &mo 2
+        &mo 2 &kp GRAVE &kp CAPS &kp LEFT &kp RIGHT                &kp LGUI &kp BSPC  &kp LG(LS(N3))  &kp HYP(7) &kp ENTER &lt 2 SPACE             &kp DOWN &kp UP &kp LBKT  &kp RBKT &sk RSHFT
       >;
     };
 
